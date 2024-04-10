@@ -10,3 +10,5 @@ IIITH SMAI Project. We make an abstractive qa chatbot using RAG using Langchain 
 - [ ] Use advanced RAG techniques such as HyDe and rerankers if possible.
 - [ ] Evaluate our RAG pipeline using different eval metrics.
   
+
+

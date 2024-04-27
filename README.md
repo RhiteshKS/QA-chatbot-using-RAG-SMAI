@@ -4,9 +4,7 @@ IIITH SMAI Project. We make an abstractive qa chatbot using RAG using Langchain 
 ## To-Do List
 - [x] Why RAG for making a chatbot?(Completed)
 - [x] Make a basic RAG pipleline. (Completed)
-- [ ] Use different types of document loaders and experiment with the number of documents and sizes that can be used.
-- [ ] Use different types of embedding models and make observations
-- [ ] Use different types of vector stores.
+- [x] Use different types of embedding models and make observations
 - [ ] Use different types of retrievers and experiment with them.
 - [ ] Use advanced RAG techniques such as HyDe and rerankers if possible.
 - [ ] Evaluate our RAG pipeline using different eval metrics.

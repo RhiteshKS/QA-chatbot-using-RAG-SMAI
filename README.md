@@ -10,3 +10,4 @@ IIITH SMAI Project. We make an abstractive qa chatbot using RAG using Langchain 
 - [x] Use Cohere reranker, cross encoder reranker(Completed)
 - [x] Evaluate our RAG pipeline using different eval metrics.(Completed)
   
+Check out the presentation slides [here] (https://github.com/RhiteshKS/QA-chatbot-using-RAG-SMAI/blob/main/qa%20chatbot%20rag.pdf)
